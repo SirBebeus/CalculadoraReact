@@ -1,0 +1,30 @@
+.butao{
+    font-size: 1.4em;
+    background-color: #f0f0f0;
+    border: none;
+    border-right: solid 1px #888;
+    border-bottom:solid 1px #888;
+    outline: none;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.butao:active{
+    background-color: #ccc;
+}
+
+.butao.double{
+    grid-column: span 2;
+}
+.butao.triple{
+    grid-column: span 3;
+}
+.butao.operation{
+    background-color: #ff9500;
+    color: aliceblue;
+}
+.butao.operation:active{
+    background-color: #ff9500cc;
+}
+
