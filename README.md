@@ -1,7 +1,7 @@
 
 # Calculadora feita no React.js
 
-Um calculadora simples feita no React, com o intuito de aprendizagem.
+Um calculadora simples feita no React
 
 
 
